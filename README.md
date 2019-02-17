@@ -262,6 +262,18 @@ FGSM算法：机器学习对抗算法中的FGSM算法。通过算法说明和代
 
 [LittleHann师傅](https://home.cnblogs.com/u/LittleHann/)
 
+## 优秀书籍
+
+《web安全之机器学习入门》
+
+《web安全之深度学习实战》
+
+《web安全之强化学习与Gan》
+
+《OReilly.Machine.Learning.and.Security》
+
+《统计学习方法》
+
 ## 思考
 
 [入行 AI，如何选个脚踏实地的岗位](https://mp.weixin.qq.com/s?__biz=MzAxMjE4MTQ2OA==&mid=2652730162&idx=1&sn=8c21d7b37036fa01ad668fe0a00e4b58&chksm=805c1981b72b90977b7c60f5800f2ba8e5d2f541a12aa1a8e183b5d0c1d82e923f67bee4e557&scene=21#wechat_redirect)
