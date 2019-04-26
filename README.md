@@ -1,20 +1,29 @@
 # AI-Security-Learning
+
 自身学习的安全数据科学和ai安全算法的学习资料
 
 项目地址： <https://github.com/0xMJ/AI-Security-Learning>
 
-最近更新日期为：2019/02/17
+最近更新日期为：2019/04/26
 
 同步更新于： [Mang0: AI-Security-Learning](http://mang0.me/archis/eed6fa1/)
 
 [TOC]
 
+新增：
+
+- [干货 | 机器学习在web攻击检测中的应用实践](https://mp.weixin.qq.com/s/Fuu70rPWyYP5mQSOK3J9_Q)
+- [基于HMM的web异常参数检测](https://github.com/SparkSharly/Sharly)
+- [AI繁荣下的隐忧——Google Tensorflow安全风险剖析](https://mp.weixin.qq.com/s/rjcOK3A83oKHkpNgbm9Lbg)
+- [Data-Knowledge-Action: 企业安全数据分析入门](https://www.cdxy.me/?p=803)
+- [使用Seq2Seq自动编码器检测Web攻击](http://blog.ptsecurity.com/2019/02/detecting-web-attacks-with-seq2seq.html)
+
 ## 机器学习与安全课程
 
 - [斯坦福CS259D](http://web.stanford.edu/class/cs259d/)
-
 - [短期课程 - 安全信息学应用机器学习](https://github.com/albahnsen/ML_SecurityInformatics)
 - [我们的书“安全专业人工智能简介”的示例代码](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros)
+- [mylamour教程](https://github.com/mylamour/machine-learning-for-security)
 
 ## AI应用攻击篇
 
@@ -52,27 +61,17 @@
 
 ### UEBA
 
-[UBA/UEBA的资料收集和学习](https://ixyzero.com/blog/archives/4103.html)
-
-[UEBA架构设计之路1：UEBA框架](https://www.secpulse.com/archives/95668.html)  
-
-[UEBA架构设计之路2：数据接入和准备](https://www.secpulse.com/archives/96063.html)
-
-[UEBA架构设计之路3：复杂事件处理引擎](https://www.secpulse.com/archives/96049.html)
-
-[UEBA如何在企业有效地应用与落地](https://www.sec-un.org/ueba%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BC%81%E4%B8%9A%E6%9C%89%E6%95%88%E5%9C%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E8%90%BD%E5%9C%B0/)
-
-[UEBA在企业安全领域应用的现状和挑战](https://www.secrss.com/articles/760)
-
-[浅析用户行为分析系统（UEBA）](https://www.freebuf.com/articles/neopoints/131514.html)
-
-[机器学习算法在用户行为检测(UBA)领域](https://www.jianshu.com/p/b7eda54bb1e5)
-
-[新一代数据安全的制胜法宝-UBA](https://www.jianshu.com/p/b7eda54bb1e5)
-
-[干货｜用机器学习检测异常点击流](http://www.sohu.com/a/160849130_642762)
-
-[机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
+- [UBA/UEBA的资料收集和学习](https://ixyzero.com/blog/archives/4103.html)
+- [UEBA架构设计之路1：UEBA框架](https://www.secpulse.com/archives/95668.html)  
+- [UEBA架构设计之路2：数据接入和准备](https://www.secpulse.com/archives/96063.html)
+- [UEBA架构设计之路3：复杂事件处理引擎](https://www.secpulse.com/archives/96049.html)
+- [UEBA如何在企业有效地应用与落地](https://www.sec-un.org/ueba%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BC%81%E4%B8%9A%E6%9C%89%E6%95%88%E5%9C%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E8%90%BD%E5%9C%B0/)
+- [UEBA在企业安全领域应用的现状和挑战](https://www.secrss.com/articles/760)
+- [浅析用户行为分析系统（UEBA）](https://www.freebuf.com/articles/neopoints/131514.html)
+- [机器学习算法在用户行为检测(UBA)领域](https://www.jianshu.com/p/b7eda54bb1e5)
+- [新一代数据安全的制胜法宝-UBA](https://www.jianshu.com/p/b7eda54bb1e5)
+- [干货｜用机器学习检测异常点击流](http://www.sohu.com/a/160849130_642762)
+- [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 
 ### Web安全检测
 
@@ -80,6 +79,10 @@
 
 - [用递归神经网络检测WEB攻击](https://aivillage.org/posts/detecting-web-attacks-rnn/)
 - [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
+- [干货 | 机器学习在web攻击检测中的应用实践](https://mp.weixin.qq.com/s/Fuu70rPWyYP5mQSOK3J9_Q)
+- [基于HMM的web异常参数检测](https://github.com/SparkSharly/Sharly)
+- [基于机器学习的攻击检测](https://zhuanlan.zhihu.com/c_1083392486965178368)
+- [使用Seq2Seq自动编码器检测Web攻击](http://blog.ptsecurity.com/2019/02/detecting-web-attacks-with-seq2seq.html)
 
 #### Webshell检测
 
@@ -105,18 +108,24 @@
 
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
 
+### 用户异常行为检测
+
+- [用户异常行为检测](https://github.com/aviraonepiece/machine_learning/tree/master/DDoS%E6%A3%80%E6%B5%8B)
+
 ### DDOS
 
 - [基于KDDCUP 99数据集预测DDoS攻击](https://github.com/aviraonepiece/machine_learning)
 - [基于谱分析与统计机器学习的DDoS攻击检测技术研究](http://wap.cnki.net/lunwen-1013353778.html)
 - [基于机器学习的分布式拒绝服务攻击检测方法研究](http://cdmd.cnki.com.cn/Article/CDMD-90002-2007140546.htm)
 - [DDoS Attacks Using Hidden Markov Models and Cooperative ReinforcementLearning*](https://pdfs.semanticscholar.org/6363/b9f28a7e037abe626a2e88fac3393c04bfda.pdfDefending )
+- 
 
 ### 恶意url检测
 
 - [URLNet：通过深度学习学习URL表示以进行恶意URL检测](https://arxiv.org/abs/1802.03162v2)
 - [用机器学习玩转恶意URL 检测](http://www.freebuf.com/articles/network/131279.html)
 - [使用机器学习来检测恶意URL](https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs)
+- [网络钓鱼URL分类](https://github.com/surajr/URL-Classification)
 
 ### DGA
 
@@ -152,6 +161,12 @@
 ### APT检测
 
 - [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ%2B%2F89ZUA#rd)
+- [机器学习算法分析引擎助力安全威胁推理分析](http://blog.nsfocus.net/machine-learning-algorithms-analysis-engine-security-threat-reasoning/)
+
+### DNS隐蔽信道检测
+
+- [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
+- [探秘-基于机器学习的DNS隐蔽隧道检测方法与实现](https://blog.riskivy.com/%E6%8E%A2%E7%A7%98-%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84dns%E9%9A%90%E8%94%BD%E9%9A%A7%E9%81%93%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0/)
 
 ### 业务安全检测
 
@@ -161,13 +176,20 @@
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
 
+### 安全运营
+
+- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
+- [聊聊安全运营](https://zhuanlan.zhihu.com/p/39611521)
+- [我理解的安全运营](https://zhuanlan.zhihu.com/p/39467201?utm_source=wechat_session&utm_medium=social&utm_oi=29317295767552&wechatShare=2&from=timeline&isappinstalled=0)
+- [采用NLP机器学习来进行自动化合规风险治理](http://blog.nsfocus.net/automated-compliance-risk-management-nlp-machine-learning/)
+
 ### 杂项
 
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
-- [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
-- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
-
-
+- [我对“数据驱动安全”的一些理解](http://qimingyu.com/2016/06/27/%E6%88%91%E5%AF%B9%E2%80%9C%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E5%AE%89%E5%85%A8%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3/)
+- [数据驱动安全方法论浅谈](https://xz.aliyun.com/t/3695)
+- [可视化恶意软件行为，并使用GAN主动防御零日攻击。](https://github.com/bsvineethiitg/malwaregan) 
+- [基于主动学习的异常检测](https://mp.weixin.qq.com/s/wxarbgNuasxaPsZ3Dh4z6g)
 
 ## AI本身安全
 
@@ -176,20 +198,18 @@
 逃逸攻击：
 
 - [对深度学习的逃逸攻击 - 探究人工智能系统中的安全盲区](https://www.anquanke.com/post/id/87037)
-
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
-
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
-
 - [手写数字识别的攻击](https://zhuanlan.zhihu.com/p/34038758)
-
 - [使用生成对抗网络(GAN)生成DGA](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
+- [黑客入侵与机器学习沙箱逃逸](https://mp.weixin.qq.com/s/fVKRYAvrAK3mX1nN6KIyhA)
 
 ### AI框架安全
 
 - [深度学习框架中的魔鬼 - 探究人工智能系统中的安全问题](https://www.anquanke.com/post/id/86989)
 - [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
+- [AI繁荣下的隐忧——Google Tensorflow安全风险剖析](https://mp.weixin.qq.com/s/rjcOK3A83oKHkpNgbm9Lbg)
 
 ### AI数据安全
 
@@ -197,7 +217,6 @@
 
 - [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
 - [对抗数据中毒--机器学习在阿里巴巴网络安全的应用](https://www.leiphone.com/news/201806/rYrfwtaeCNohEf0D.html)
-
 - [三种特征向量对深度学习攻击检测的影响](https://manning23.github.io/2017/08/08/%E4%B8%89%E7%A7%8D%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F%E5%AF%B9%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E7%9A%84%E5%BD%B1%E5%93%8D/)
 - [DEFCON CHINA议题解读| 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
 - [对深度学习的降维攻击 - 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
@@ -219,63 +238,93 @@ FGSM算法：机器学习对抗算法中的FGSM算法。通过算法说明和代
 ### 对抗样本
 
 - [详解如何使用Keras实现Wassertein GAN](https://mp.weixin.qq.com/s/F2gBP23LCEF72QDlugbBZQ)
+- [保卫机器学习对抗攻击性攻击](http://www.vipread.com/library/item/1730)
+- [对抗攻击基础知识](https://www.zhihu.com/people/shui-jian-qing-yi-qian/posts)
+
+## 安全算法
+
+[机器学习异常检测算法](https://yq.aliyun.com/articles/693204?spm=a2c4e.11154873.tagmain.23.172e3c1evMZUJZ)
+
+
 
 ## 杂项
 
 - [网络安全与机器学习（一）：网络安全中的机器学习算法](https://segmentfault.com/a/1190000016981979)
 - [网络安全与机器学习（二）：网络安全任务如何结合机器学习？](https://segmentfault.com/a/1190000016982928)
 - [机器学习在安全攻防场景的应用与分析](https://cloud.tencent.com/developer/article/1045024)
-
+- [2017年 AI安全风险白皮书](https://www.anquanke.com/post/id/98300)
 - [逻辑回归算法分析与安全场景分析](https://manning23.github.io/2016/04/06/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%89%E5%85%A8%E5%9C%BA%E6%99%AF%E5%88%86%E6%9E%90/)
 - [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
 - [一文全面解读网络安全中的机器学习](http://ai.51cto.com/art/201811/587025.htm)
 
+## 数据
+
+http://www.secrepo.com/
+
+1、[Samples of Security Related Dats](http://link.zhihu.com/?target=http%3A//www.secrepo.com/)
+
+2、[DARPA Intrusion Detection Data Sets](http://link.zhihu.com/?target=https%3A//www.ll.mit.edu/ideval/data/)
+
+3、[Stratosphere IPS Data Sets](http://link.zhihu.com/?target=https%3A//stratosphereips.org/category/dataset.html)
+
+4、[Open Data Sets](http://link.zhihu.com/?target=http%3A//csr.lanl.gov/data/)
+
+5、[Data Capture from National Security Agency](http://link.zhihu.com/?target=http%3A//www.westpoint.edu/crc/SitePages/DataSets.aspx)
+
+6、[The ADFA Intrusion Detection Data Sets](http://link.zhihu.com/?target=https%3A//www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-IDS-Datasets/)
+
+7、[NSL-KDD Data Sets](http://link.zhihu.com/?target=https%3A//github.com/defcom17/NSL_KDD)
+
+8、[Malicious URLs Data Sets](http://link.zhihu.com/?target=http%3A//sysnet.ucsd.edu/projects/url/)
+
+9、[Multi-Source Cyber-Security Events](http://link.zhihu.com/?target=http%3A//csr.lanl.gov/data/cyber1/)
+
+10、[Malware Training Sets: A machine learning dataset for everyone](http://link.zhihu.com/?target=http%3A//marcoramilli.blogspot.cz/2016/12/malware-training-sets-machine-learning.html)
+
+## 资源
+
+- [KDnuggets](https://www.leiphone.com/news/201701/RdVHBwh9y0kuvTGJ.html) 
+
 ## 优秀Github推荐
 
-[网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
-
-[最终安全数据科学和机器学习指南](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-
-[Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security#-datasets)
-
-[404师傅的整理](https://github.com/404notf0und/AI-for-Security-Learning)
-
-[Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
-
-[iami师傅的整理](https://github.com/mylamour/machine-learning-for-security)
-
-[关于机器学习和安全的源代码](https://github.com/13o-bbr-bbq/machine_learning_security)
-
-[红日安全](https://github.com/hongriSec/AI-Machine-Learning-Security)
+- [网络安全中机器学习大合集](https://github.com/jivoi/awesome-ml-for-cybersecurity/blob/master/README_ch.md)
+- [最终安全数据科学和机器学习指南](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+- [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security#-datasets)
+- [404师傅的整理](https://github.com/404notf0und/AI-for-Security-Learning)
+- [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+- [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets)
+- [Collection of Security and Network Data Resources](http://www.covert.io/data-links/)
+- [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+- [Deep Learning Security Papers](http://www.covert.io/deep-learning-security-papers/)
+- [iami师傅的整理](https://github.com/mylamour/machine-learning-for-security)
+- [关于机器学习和安全的源代码](https://github.com/13o-bbr-bbq/machine_learning_security)
+- [红日安全](https://github.com/hongriSec/AI-Machine-Learning-Security)
 
 ## 优秀博客
 
-<http://webber.tech/>
+- <http://webber.tech/>
+- [http://bindog.github.io](http://bindog.github.io/)
+- [https://www.cdxy.me](https://www.cdxy.me/)
+- [https://iami.xyz](https://iami.xyz/)
+- <https://www.zuozuovera.com/>
+- [LittleHann师傅](https://home.cnblogs.com/u/LittleHann/)
+- [ReLuQ师傅](https://www.zhihu.com/people/fuzzingq/activities)
 
-[http://bindog.github.io](http://bindog.github.io/)
-
-[https://www.cdxy.me](https://www.cdxy.me/)
-
-[https://iami.xyz](https://iami.xyz/)
-
-<https://www.zuozuovera.com/>
-
-[LittleHann师傅](https://home.cnblogs.com/u/LittleHann/)
 ## 优秀书籍
-《web安全之机器学习入门》
 
-《web安全之深度学习实战》
+- 《web安全之机器学习入门》
+- 《web安全之深度学习实战》
+- 《web安全之强化学习与Gan》
+- 《OReilly.Machine.Learning.and.Security》
+- 《统计学习方法》
+- [《恶意软件数据科学》](https://nostarch.com/malwaredatascience)
+- [《安全专业人员智能介绍》](https://pages.cylance.com/en-us-introduction-to-ai-book.html?_ga=2.89683291.1595385041.1538052662-139740503.1538052662)
+- [掌握机器学习渗透测试](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)Mastering Machine Learning for Penetration Testing
 
-《web安全之强化学习与Gan》
-
-《OReilly.Machine.Learning.and.Security》
-
-《统计学习方法》
 ## 思考
 
-[入行 AI，如何选个脚踏实地的岗位](https://mp.weixin.qq.com/s?__biz=MzAxMjE4MTQ2OA==&mid=2652730162&idx=1&sn=8c21d7b37036fa01ad668fe0a00e4b58&chksm=805c1981b72b90977b7c60f5800f2ba8e5d2f541a12aa1a8e183b5d0c1d82e923f67bee4e557&scene=21#wechat_redirect)
-
-[为什么机器学习在安全、风控领域频频遇冷?](https://segmentfault.com/a/1190000008906097)
+- [入行 AI，如何选个脚踏实地的岗位](https://mp.weixin.qq.com/s?__biz=MzAxMjE4MTQ2OA==&mid=2652730162&idx=1&sn=8c21d7b37036fa01ad668fe0a00e4b58&chksm=805c1981b72b90977b7c60f5800f2ba8e5d2f541a12aa1a8e183b5d0c1d82e923f67bee4e557&scene=21#wechat_redirect)
+- [为什么机器学习在安全、风控领域频频遇冷?](https://segmentfault.com/a/1190000008906097)
 
 # 学习机器学习
 
@@ -295,7 +344,7 @@ FGSM算法：机器学习对抗算法中的FGSM算法。通过算法说明和代
 
 ## 第三步：掌握适合数据科学的Python
 
-python在当今的数据分析很热，广泛应用于金融、电商等领域的大数据分析，也非常适合数据工作者利用它处理数据，所以Python在数据领域应用越来越广泛。
+python在当今的数据分析很热，广泛应用于金融、电商等领域的大数据分析，也非常适合数据工作者利用它处理数据，所以Python在数据领域应用越来越广泛。学习Python的几个机器学习工具——pandas，numpy，seaborn，sklearn。
 推荐教程：《利用python进行数据分析》、《Python爬虫》
 
 [Python 和数据科学](https://bookdata.readthedocs.io/en/latest/index.html)
@@ -308,6 +357,18 @@ python在当今的数据分析很热，广泛应用于金融、电商等领域�
 
 原课程地址：coursera.org/course/ml
 
+​			https://www.coursera.org/learn/machine-learning/home/welcome
+
+笔记：
+
+https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+
+https://github.com/scruel/ML-AndrewNg-Notes
+
+周志华西瓜书：
+
+[周志华《机器学习》阅读笔记](https://github.com/familyld/Machine_Learning)
+
 ## 第五步：再进一步之学习DL
 
 得益于计算机越发强大的计算能力，神经网络的加强版深度学习（权且容许我这么不专业的叫法）越发火热，从AlphaGo、无人驾驶再到最近的AlphaGo 2.0横扫中日韩顶级骑手，AI可谓出尽了风头，在这个人工智能与大数据的时代，不学点AI，都不好意思出门跟人打招呼说我是搞计算机技术的了。
@@ -315,9 +376,19 @@ python在当今的数据分析很热，广泛应用于金融、电商等领域�
 
 原课程地址：www.deeplearning.ai
 
+笔记：
+
+https://github.com/fengdu78/deeplearning_ai_books=http://www.ai-start.com/dl2017/
+http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/
+http://binweber.top/tags/ML/
+https://zhuanlan.zhihu.com/p/35333489
+http://dl-notes.imshuai.com/
+
 ## 第六步：做实验及上kaggle实战
 
-纸上得来终觉浅、绝知此事要躬行。理论学习再多最终还是要实战。为降低门槛起见，你可以从做一个一个有趣的深度学习实验开始，比如学梵高作画、自动玩flappy bird等等。然后，在kaggle上多刷刷一些数据竞赛项目
+1、纸上得来终觉浅、绝知此事要躬行。理论学习再多最终还是要实战。为降低门槛起见，你可以从做一个一个有趣的深度学习实验开始，比如学梵高作画、自动玩flappy bird等等。然后，在kaggle上多刷刷一些数据竞赛项目，学习特征工程和别人的代码。
+
+2、学习大规模数据处理——spark hadoop storm
 
 ## 第七步：实习或工作
 
