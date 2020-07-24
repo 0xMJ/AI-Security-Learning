@@ -385,7 +385,9 @@ http://www.secrepo.com/
 
 ## 资源
 
-- [KDnuggets](https://www.leiphone.com/news/201701/RdVHBwh9y0kuvTGJ.html) 
+- [KDnuggets](https://www.leiphone.com/news/201701/RdVHBwh9y0kuvTGJ.html)
+- [数据挖掘与网络安全相关资源](http://users.cis.fiu.edu/~lpeng/ )
+
 
 ## 优秀Github推荐
 
