@@ -4,7 +4,7 @@
 
 项目地址： <https://github.com/0xMJ/AI-Security-Learning>
 
-最近更新日期为：2020/07/21
+最近更新日期为：2020/07/24
 
 同步更新于： [Mang0: AI-Security-Learning](http://mang0.me/archis/eed6fa1/)
 
@@ -358,6 +358,8 @@ FGSM算法：机器学习对抗算法中的FGSM算法。通过算法说明和代
 - [2017年 AI安全风险白皮书](https://www.anquanke.com/post/id/98300)
 - [逻辑回归算法分析与安全场景分析](https://manning23.github.io/2016/04/06/%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%89%E5%85%A8%E5%9C%BA%E6%99%AF%E5%88%86%E6%9E%90/)
 - [一文全面解读网络安全中的机器学习](http://ai.51cto.com/art/201811/587025.htm)
+- [数据驱动安全面临的挑战](https://c4pr1c3.github.io/cuc-ns/ds-security/challenges.html)
+
 
 ## 数据
 
